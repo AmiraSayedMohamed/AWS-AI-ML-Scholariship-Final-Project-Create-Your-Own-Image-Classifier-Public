@@ -1,5 +1,5 @@
 # 🌼 Custom Flower Image Classifier 🌼
-![Flower Classification Result](path_to_your_image.png)
+![Flower Classification Result](https://github.com/AmiraSayedMohamed/AWS-AI-ML-Scholariship-Final-Project-Create-Your-Own-Image-Classifier-Public/blob/master/flower_data/output-Img.jpg)
 Welcome to **Custom Flower Image Classifier**, a project developed as part of the **AWS AI & ML Scholarship** program. This project implements a deep learning-based image classification model capable of identifying different types of flowers from images. 🚀
 
 ---
