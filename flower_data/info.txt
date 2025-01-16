@@ -1,0 +1,10 @@
+this directorty will contain the data:
+- train and we will split it into training and testing
+- valid
+- class_to_name.json : this file contain the name of the classes 
+but i have named them manually i don't know the actual of them
+,i could't find the json file names of the classes
+
+the data i have used here i have download it through a link
+you will find this link of data and the all code in the notebook named :
+this
